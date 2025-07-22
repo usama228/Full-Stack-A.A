@@ -1,0 +1,14 @@
+.swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    /* Adjust as needed */
+}
+
+img {
+    max-height: 100%;
+    /* Ensure image height doesn't exceed the container */
+    max-width: 100%;
+    /* Ensure image width doesn't exceed the container */
+}
