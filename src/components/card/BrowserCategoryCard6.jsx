@@ -9,7 +9,7 @@ export default function BrowserCategoryCard6({ data }) {
           <span className={data.icon} />
         </div>
         <div className="details ml40">
-          <p className="mb-0 text">{data.skill} skills</p>
+          <p className="mb-0 text">{data.skill} skill</p>
           <h5 className="title">
             <Link href="/service-2">{data.title}</Link>
           </h5>
